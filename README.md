@@ -1,4 +1,5 @@
-![HeadBanner](https://www.canva.com/design/DAFNFRlHrAs/view) (https://github.com/ertantherock) 
+![Banner](https://user-images.githubusercontent.com/107481123/192059604-bc662a77-221f-40ba-bc4f-69159c61da24.png)
+
 <h1 align="center">Hi 👋, I'm Ertan</h1>
 <h3 align="center">A passionate Full Stack Developer Candidate from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
