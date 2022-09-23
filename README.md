@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kayaaertan" target="blank"><img src="https://img.shields.io/twitter/follow/kayaaertan?logo=twitter&style=for-the-badge" alt="kayaaertan" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot, React**
+- 🌱 I’m currently learning **Java Springboot, Javascript React**
 
 - 💬 Ask me about **Python**
 
